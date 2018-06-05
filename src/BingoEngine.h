@@ -5,7 +5,6 @@ class BingoEngine
 {
 	public:
 		BingoEngine();
-		bool verifyCard(BingoCard &);
 		
 	private:
 		bool calledList[75];
